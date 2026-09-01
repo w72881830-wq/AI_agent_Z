@@ -1,2 +1,8 @@
-# AI agent code execution
-print("AI agent executed!")
+# AI agent execution code goes here.
+
+class AIAgent:
+    def execute(self):
+        print('AI agent is executing...')
+
+agent = AIAgent()
+agent.execute()

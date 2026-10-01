@@ -1,2 +1,3 @@
 # AI Agent Command Execution
-This repository utilizes an AI agent for executing commands.
+
+This repository implements the AI agent command execution functionality as part of the default command.

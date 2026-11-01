@@ -1,2 +1,2 @@
-# AI Agent
-This repository contains an AI agent that can execute commands based on user input.
+# AI Agent Command
+This is the initial commit for the feature branch implementing the AI agent functionality.
